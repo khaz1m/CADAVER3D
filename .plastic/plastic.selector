@@ -1,0 +1,4 @@
+repository "Cadaver3D/Cadaver3D@18968273073188@cloud"
+  path "/"
+    br "/main"
+    co "/main"

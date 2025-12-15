@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18b1860590c592c45aab0f14f6a21322
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195418
+  packageName: Human Male anotomy
+  packageVersion: 1.0
+  assetPath: Assets/FRIKI_STUDIO/shader/Rim effect.shader
+  uploadId: 433504
